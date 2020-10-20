@@ -1,6 +1,6 @@
 ## 칭찬받고 싶은 백엔드 개발자 - plzprayme 🙏 
 ### Awards 🏆
-- 2020 JunctionX Seoul 2nd Track Winner in SIA Track    🥈
+- 2020 JunctionX Seoul SIA Track 2nd Winner    🥈
 - 2019 한남대학교 빅데이터 경진대회 우수상                 🥉
 - 2019 영남대학교 심화 창의 융합 해커톤 금상, 인기상     🥈🏅
 - 2019 Intel AI Drone Contest 2nd Winner                🥈
