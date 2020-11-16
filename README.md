@@ -15,3 +15,5 @@
 
 ### More about me
 [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://zzsza.github.io/)](https://velog.io/@prayme) [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/seong-yun-byeon-8183a8113/)](https://www.linkedin.com/in/prayme/)
+
+[CHECK MY RESUME!!](https://www.notion.so/bf86355af5e942e4990098ee2b07035b)
