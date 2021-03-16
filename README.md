@@ -6,7 +6,8 @@
 - 2019 Intel AI Drone Contest 2nd Winner                🥈
 
 ### Careers 🏃‍♂️
-- 2020년 하계방학 KISTI 슈퍼컴퓨팅인프라센터 인턴쉽
+- 2021년 1학기 SIA 서버 개발팀 인턴
+- 2020년 하계방학 KISTI 슈퍼컴퓨팅인프라센터 인턴
 
 ### Projects 🎨
 - [PIONEER 동아리 관리 페이지](https://pioneer.prayme.ga) - [Git Repo](https://github.com/plzprayme/hnu-pioneer)
