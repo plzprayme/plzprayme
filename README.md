@@ -1,21 +1,32 @@
 ## 칭찬받고 싶은 백엔드 개발자 - plzprayme 🙏 
-### Awards 🏆
-- 2020 JunctionX Seoul SIA Track 2nd Winner    🥈
-- 2019 한남대학교 빅데이터 경진대회 우수상                 🥉
-- 2019 영남대학교 심화 창의 융합 해커톤 금상, 인기상     🥈🏅
-- 2019 Intel AI Drone Contest 2nd Winner                🥈
+[![Velog's GitHub stats](https://img.shields.io/badge/-TechBlog-success)](https://velog.io/@prayme)  [![Gmail Badge](https://img.shields.io/badge/-Gmail-red)](mailto:dbfpzk142@gmail.com)
 
-### Careers 🏃‍♂️
-- 2021년 1학기 SIA 서버 개발팀 인턴
-- 2020년 하계방학 KISTI 슈퍼컴퓨팅인프라센터 인턴
+### Careers 👨‍💻
+
+* SI Analytics 백엔드 인턴 (2021.03 ~ 2021.06)
+
+  
 
 ### Projects 🎨
-- [아이디어 메모 크롬 익스텐션 - 사각사각](https://chrome.google.com/webstore/detail/sagaksagak/cbcfldfiodebkafgjhiokikamikajekn) - [Git Repo](https://github.com/DDD-5/undertheriver-sgsg-backend)
-- [PIONEER 동아리 관리 페이지](https://hnu.prayme.site) - [Git Repo](https://github.com/plzprayme/hnu-pioneer)
-- 오정동 농수산물 시장 홍보 어플리케이션 - [Git Repo](https://github.com/HNU-OEG)
-- 손씻기 알림 어플리케이션 - 손자취 - [Git Repo](https://github.com/plzprayme/handtradcer)
 
-### More about me
-[![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://zzsza.github.io/)](https://velog.io/@prayme) [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/seong-yun-byeon-8183a8113/)](https://www.linkedin.com/in/prayme/)
+* [아이디어 메모 크롬 익스텐션 - 사각사각](https://chrome.google.com/webstore/detail/sagaksagak/cbcfldfiodebkafgjhiokikamikajekn) - [Git Repo](https://github.com/DDD-5/undertheriver-sgsg-backend)
 
-[CHECK MY RESUME!!](https://www.notion.so/bf86355af5e942e4990098ee2b07035b)
+
+
+### Presentation 👨‍🏫
+
+* [AWS Community Day 2021] [AWS와 함께하는 무중단 배포 파이프라인 개선기](https://www.youtube.com/watch?v=KDLgR7TYR1A)
+
+* [AUSG 5기 Big Chat] [CORS 정복기](https://www.slideshare.net/SungChanHwang/cors-250541693)
+
+* [DDD 5기 직군 세션] [gRPC로 API 문서화 탈출하기](https://www.slideshare.net/SungChanHwang/ddd-5-248321276)
+
+
+
+### Activities 🤸‍♂️
+
+* AUSG 5기 (2021.07 ~)
+* 글또 6기 (2021. 07 ~)
+* DDD 5기 (2021.02 ~ 2021.06)
+* PIONEER (2019.03 ~ 2021. 06)
+
